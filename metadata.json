@@ -1,0 +1,10 @@
+{
+  "name": "MineVision AI",
+  "description": "AI-Powered Smart Compliance Monitoring for Coal Mines - Enterprise Safety & Compliance Platform (SIH)",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
